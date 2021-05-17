@@ -1,0 +1,1 @@
+System.register(["./p-4084aa6f.system.js","./p-5fc59fe9.system.js","./p-bb1a7ec3.system.js","./p-77c253ab.system.js","./p-a821f331.system.js","./p-1b8dee6f.system.js"],(function(s){"use strict";return{setters:[function(){},function(){},function(){},function(){},function(){},function(t){s("uni_route",t.U)}],execute:function(){}}}));

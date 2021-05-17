@@ -1,0 +1,1 @@
+System.register(["./p-4084aa6f.system.js","./p-a821f331.system.js","./p-2dea2bc9.system.js","./p-7799b191.system.js"],(function(t){"use strict";return{setters:[function(){},function(){},function(){},function(s){t("uni_event_load_wrap",s.U)}],execute:function(){}}}));
