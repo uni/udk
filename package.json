@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/udk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "UI Dev Kit (build)",
   "author": "Vitalii Havryliuk",
   "main": "dist/udk.esm.js",
