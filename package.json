@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/udk",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "UI Dev Kit (build)",
   "license": "CC-BY-4.0",
   "author": "Vitalii Havryliuk",
@@ -18,7 +18,7 @@
   "scripts": {
     "sync": "gulp",
     "pack": "npm pack",
-    "publish": "npm publish uiwebkit-udk-0.2.3.tgz --access public"
+    "publish": "npm publish uiwebkit-udk-0.2.4.tgz --access public"
   },
   "devDependencies": {
     "gulp": "4.0.2"
