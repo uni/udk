@@ -1,9 +1,9 @@
 {
   "name": "@uiwebkit/udk",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "description": "UI Dev Kit (build)",
   "license": "CC-BY-4.0",
-  "author": "Vitalii Havryliuk",
+  "author": "Vitali Havryliuk",
   "main": "dist/udk.esm.js",
   "module": "dist/udk/index.esm.js",
   "es2015": "dist/udk/index.esm.js",
@@ -18,7 +18,7 @@
   "scripts": {
     "sync": "gulp",
     "pack": "npm pack",
-    "publish": "npm publish uiwebkit-udk-0.3.1.tgz --access public"
+    "publish": "npm publish uiwebkit-udk-1.0.0.tgz --access public"
   },
   "devDependencies": {
     "gulp": "4.0.2"
