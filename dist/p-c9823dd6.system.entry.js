@@ -1,1 +1,0 @@
-System.register(["./p-6fccc27c.system.js","./p-956bcfb7.system.js","./p-a821f331.system.js","./p-2dea2bc9.system.js","./p-e1ca7827.system.js","./p-8cc0c8df.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_store_display",t.U)},function(){},function(){},function(){},function(){},function(){}],execute:function(){}}}));
