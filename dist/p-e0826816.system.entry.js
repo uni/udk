@@ -1,1 +1,0 @@
-System.register(["./p-9c3397ce.system.js","./p-956bcfb7.system.js","./p-1e736fd3.system.js","./p-f5fe9db5.system.js","./p-2dea2bc9.system.js","./p-3b2e19b7.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_display_shadow",t.U)},function(){},function(){},function(){},function(){},function(){}],execute:function(){}}}));
