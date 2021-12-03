@@ -1,0 +1,1 @@
+import{u as r}from"./p-13207076.js";function o(o,a,p,s,t){Array.from(r(o,s,t)).forEach((r=>{r&&(r[a]=p)}))}export{o as u}

@@ -1,1 +1,0 @@
-System.register(["./p-af5fdcc8.system.js","./p-07f85171.system.js","./p-1e736fd3.system.js","./p-8cc0c8df.system.js","./p-946a0616.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_router_link",t.U)},function(){},function(){},function(){},function(){}],execute:function(){}}}));
