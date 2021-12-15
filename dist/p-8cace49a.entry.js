@@ -1,0 +1,1 @@
+import{r as e,h as r,e as t}from"./p-165e1107.js";let s=class{constructor(r){e(this,r)}render(){return r(t,{hidden:!0},r("slot",null))}};export{s as uni_render_template}
