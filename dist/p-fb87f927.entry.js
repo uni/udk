@@ -1,1 +1,0 @@
-import{r,h as t}from"./p-165e1107.js";import{u as o}from"./p-e282851d.js";let s=class{constructor(t){r(this,t)}connectedCallback(){o("pro")}render(){return t("h1",null,t("slot",null))}};export{s as uni_test_pro}
