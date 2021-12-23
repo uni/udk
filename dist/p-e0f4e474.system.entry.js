@@ -1,1 +1,0 @@
-System.register(["./p-cf78a92d.system.js","./p-bada99c2.system.js","./p-e9f77a72.system.js","./p-7ef77bf7.system.js","./p-3e4da347.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_load",t.U)},function(){},function(){},function(){},function(){}],execute:function(){}}}));

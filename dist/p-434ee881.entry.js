@@ -1,1 +1,0 @@
-import{r,h as t}from"./p-00d88981.js";import{u as s}from"./p-e282851d.js";let e=class{constructor(t){r(this,t)}connectedCallback(){s("udk")}render(){return t("h1",null,t("slot",null))}};export{e as uni_test_udk}
