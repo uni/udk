@@ -1,0 +1,1 @@
+export{U as uni_router}from"./p-19587b10.js";import"./p-0973bc72.js";import"./p-d16873c3.js";import"./p-12df985d.js";import"./p-e282851d.js";
